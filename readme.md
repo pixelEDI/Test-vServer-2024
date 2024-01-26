@@ -20,7 +20,8 @@ Im Folgenden findest du eine Liste der enthaltenen Dienste:
 
 
 ## Achtung !!!
-Bitte beachte, dass du alle notwendigen Sicherheitsmaßnahmen selbst ergreifen musst. Es wurden keine Sicherheitskonfiguration in diesem Testumfeld implementiert.
+> [!NOTE]  
+> Bitte beachte, dass du alle notwendigen Sicherheitsmaßnahmen selbst ergreifen musst. Es wurden keine Sicherheitskonfiguration in diesem Testumfeld implementiert.
 
 Viel Spaß beim Testen und Experimentieren mit diesen Diensten auf deinem vServer!
 
