@@ -6,7 +6,7 @@ Im Folgenden findest du eine Liste der enthaltenen Dienste:
 
 1. **Docker Installation**: Dieser Test vServer wurde mit Docker eingerichtet, um Container für verschiedene Dienste bereitzustellen.
 
-2. **Node-RED**: Eine leistungsstarke Plattform für die Entwicklung von IoT-Anwendungen mit einem visuellen Flusseditor.
+2. **Node-RED**: Eine leistungsstarke Plattform für die Entwicklung von IoT-Anwendungen.
 
 3. **Mosquitto**: Ein MQTT-Broker, der die Kommunikation zwischen IoT-Geräten ermöglicht.
 
@@ -109,10 +109,10 @@ services:
     volumes:
       - ./data:/data
       - ./letsencrypt:/etc/letsencrypt
-
+```
+Erstanmeldung:
 Email:    admin@example.com
 Password: changeme
-```
 
 ## Maria db
 
